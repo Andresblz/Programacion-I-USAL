@@ -1,12 +1,7 @@
-/*
- *  All Rights Reserved.
- *  © 2020 Andrés Blázquez Colino
- *  andresblz@usal.es
- */
- #include <stdio.h>
- #include <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
- int main(void){
+int main(void){
     int n, i;
     long long fac;  // Para numeros mas grandes cambiar por 'long double'
 
