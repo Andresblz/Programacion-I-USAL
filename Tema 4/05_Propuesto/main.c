@@ -1,8 +1,3 @@
-/*
- *  All Rights Reserved.
- *  © 2020 Andrés Blázquez Colino
- *  andresblz@usal.es
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
