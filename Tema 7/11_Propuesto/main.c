@@ -10,7 +10,7 @@ int main(void) {
 
     printf("\nIntroduce una frase: ");
     // gets(frase) --> warning: this program uses gets(), which is unsafe.
-    // Por lo que usamos la función fgets;, más segura que gets().
+    // Por lo que usamos la función fgets(), más segura que gets().
     fgets(frase, MAX, stdin);
 
     ptr = frase;
