@@ -28,9 +28,9 @@
     - [Paso por valor](#paso-por-valor)
     - [Paso por referencia](#paso-por-referencia)
 - [Memoria dinámica](#memoria-dinámica)
-    - [Malloc]()
-    - [Calloc]()
-    - [Realloc]()
+    - [Malloc](#malloc)
+    - [Calloc](#calloc)
+    - [Realloc](#realloc)
 - [Ficheros](#ficheros)
 
 ---
